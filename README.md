@@ -1,0 +1,1 @@
+This is a sample how to create a repisotory and add it into GitHub.
